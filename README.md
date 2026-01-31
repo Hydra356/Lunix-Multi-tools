@@ -12,11 +12,6 @@
     ░  ░   ░              ░  ░   ░    ░  
                                          
 ```
-
-## 📋 Description
-
-**Lunix** est un multi-tools OSINT (Open Source Intelligence) conçu pour effectuer diverses recherches et analyses d'informations publiques. L'interface est entièrement en rouge vif pour une expérience visuelle unique.
-
 ## 📦 Installation
 
 ### Prérequis

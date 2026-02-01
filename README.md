@@ -21,7 +21,7 @@
 ### Installation des dépendances
 
 ```bash
-pip install requests pillow
+pip install requests pillow beautifulsoup4
 ```
 
 Ou utilisez le fichier requirements.txt :

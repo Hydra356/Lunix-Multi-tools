@@ -118,6 +118,9 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 ## 👤 Auteur
 
 **[HYDRA]**
+BTC : bc1pudrc5py4waggeyve324unmjjl0y2sj7lx8tycqq6d4dcucnuhcrszzw20v
+ETC : 0xc185B4B9Fd235580265b2De70C77EE4b4Db4862d
+SLN : HeVi2E9JfATEjmbN4wRKnAFN4nzHk9jRpkPQ1tLxyM84
 
 ---
 

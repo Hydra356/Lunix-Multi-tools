@@ -21,7 +21,7 @@
 ### Installation des dépendances
 
 ```bash
-pip install requests pillow beautifulsoup4 pywin32
+pip install requests pillow beautifulsoup4 pywin32 mss
 ```
 
 Ou utilisez le fichier requirements.txt :

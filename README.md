@@ -21,7 +21,7 @@
 ### Installation des dépendances
 
 ```bash
-pip install requests pillow beautifulsoup4 pywin32 mss
+pip install requests pillow beautifulsoup4 pywin32 mss opencv-python
 ```
 
 Ou utilisez le fichier requirements.txt :
